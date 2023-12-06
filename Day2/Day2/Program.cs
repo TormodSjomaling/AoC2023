@@ -157,5 +157,5 @@ int PartTwo(Record record)
 }
 
 
-//Console.WriteLine(PartOne(config, MapToRecord(text)));
+Console.WriteLine(PartOne(config, MapToRecord(text)));
 Console.WriteLine(PartTwo(MapToRecord(text)));
